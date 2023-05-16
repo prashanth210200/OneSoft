@@ -3,6 +3,8 @@ import java.util.ArrayList;
 
 public class UseStudent {
 	public static void main(String[] args) {
+		System.out.println("program start");
+		System.out.println("New changed add in the program");
 		Student s1=new Student("mano",12,21,"A","male","kumar");
 		Student s2=new Student("luxs",11,11,"Ab","female","raj");
 		Student s3=new Student("fuzi",9,31,"c","male","kanthan");
@@ -56,5 +58,6 @@ System.out.println(z);
 	}
 	System.out.println(temp);
 	}
-}
+	
 
+}
